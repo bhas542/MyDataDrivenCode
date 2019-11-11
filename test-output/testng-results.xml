@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56929" started-at="2019-11-08T11:42:38Z" finished-at="2019-11-08T11:43:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56929" started-at="2019-11-08T11:42:38Z" finished-at="2019-11-08T11:43:35Z">
+      <class name="com.DataDrivenProject.OpenSourceOHRMS.ExecutableClassTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.DataDrivenProject.OpenSourceOHRMS.ExecutableClassTest@42dafa95]" name="launchBrowser" is-config="true" duration-ms="5733" started-at="2019-11-08T11:42:38Z" finished-at="2019-11-08T11:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="readData()[pri:0, instance:com.DataDrivenProject.OpenSourceOHRMS.ExecutableClassTest@42dafa95]" name="readData" duration-ms="51145" started-at="2019-11-08T11:42:44Z" finished-at="2019-11-08T11:43:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readData -->
+      </class> <!-- com.DataDrivenProject.OpenSourceOHRMS.ExecutableClassTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
